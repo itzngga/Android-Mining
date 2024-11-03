@@ -8,7 +8,7 @@
 
 	"user": "RRX2KnqTHknxz7e6KRPS2cLvBegHeg1XLZ.XRGDRIG",
 	"algo": "verus",
-	"threads": 10,
+	"threads": 8,
 	"cpu-priority": 0,
 	"retry-pause": 5,
 	"api-allow": "192.168.0.0/16",
